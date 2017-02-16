@@ -10,7 +10,7 @@ Pre-requisites :
 Installation :
 ---
 - just copy the file Lille3Photo.java in folder : src/org/esupportail/mondossierweb/web/photo
-- then configure the file properties/monDossierWeb/monDossierWeb.xml :
+- then configure the file properties/monDossierWeb/monDossierWeb.xml, simple adjust the url tokenurl and imageurl :
 ```
 ...
         <!-- Bean Photo pour Lille3 (inspiré de Nancy2) -->
@@ -26,3 +26,5 @@ Installation :
         </bean>
 ...
 ```
+
+Have fun!
