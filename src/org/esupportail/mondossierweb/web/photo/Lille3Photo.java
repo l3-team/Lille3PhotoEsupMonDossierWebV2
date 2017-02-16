@@ -47,7 +47,6 @@ public class Lille3Photo implements IPhoto {
 
     public String getUrlPhoto(String cod_ind, String cod_etu) {
 
-        //String tokenUrl = this.photoUrl + "token/add/E" + cod_ind;
         String tokenUrl = this.tokenurl + cod_etu;
         String token = "";
         try {
@@ -57,7 +56,6 @@ public class Lille3Photo implements IPhoto {
                 LOG.error(e);
         }
 
-        //return this.photoUrl + "image/" + token;
         return this.imageurl + token;
     }
 
