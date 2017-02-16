@@ -21,7 +21,7 @@ Installation :
                         <value>https://refphotos.univ.fr/tokenEtu/add/</value>
                 </property>
                 <property name="imageurl">
-                        <value>https://refphotos.univ-lille3.fr/image/</value>
+                        <value>https://refphotos.univ.fr/image/</value>
                 </property>
         </bean>
 ...
