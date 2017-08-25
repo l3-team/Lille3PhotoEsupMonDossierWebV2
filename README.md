@@ -4,7 +4,7 @@ Java class client for use with RefPhoto
 
 Pre-requisites :
 ---
-- have a RefPhoto instance installed (https://github.com/l3-team/RefPhoto)
+- have a RefPhoto instance installed (https://github.com/l3-team/RefPhoto) or (https://github.com/l3-team/RefPhotoJ2EE)
 - have esup-mon-dossier-web v2 installed (https://www.esup-portail.org/wiki/display/PROJMONDOSSIERWEB/2+-+MonDossierWeb+v2)
 
 Installation :
